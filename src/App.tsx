@@ -4,7 +4,8 @@ function App() {
   return (
     <>
       <div>Это APP</div>
-      <div>Это DELETE</div>
+      <div>Это DELETE1</div>
+      <div>Это DELETE2</div>
     </>
   );
 }
