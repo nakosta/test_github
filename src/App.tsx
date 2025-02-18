@@ -4,8 +4,8 @@ function App() {
   return (
     <>
       <div>Это APP</div>
-      <div>Это DELETE1</div>
-      <div>Это DELETE2</div>
+      <button>Click me please</button>
+      <input type="text" placeholder="напиши чё-нить"/>
     </>
   );
 }
