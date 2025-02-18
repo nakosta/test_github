@@ -5,6 +5,7 @@ function App() {
     <>
       <div>Это APP</div>
       <button>Click me please</button>
+      <input type="text" placeholder="напиши чё-нить"/>
     </>
   );
 }
