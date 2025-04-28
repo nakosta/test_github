@@ -5,8 +5,6 @@ function App() {
     <>
       <div>MAIN COMMIT</div>
       <div>develop commit</div>
-      <input type="text" />
-      <button>feature/button</button>
     </>
   );
 }
